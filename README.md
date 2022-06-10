@@ -1,3 +1,5 @@
-Start project :
-npm install
-npm start
+**_ Start project : _**
+
+# npm install
+
+# npm start
