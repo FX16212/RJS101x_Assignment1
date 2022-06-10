@@ -32,7 +32,7 @@ export const ROLE = {
 export const STAFFS = [
 	{
 		id: 0,
-		name: 'BTS-V',
+		name: 'V',
 		doB: '1999-01-01T08:59:00.000Z',
 		salaryScale: 1.1,
 		startDate: '2019-04-30T08:59:00.000Z',
@@ -76,25 +76,25 @@ export const STAFFS = [
 	},
 	{
 		id: 4,
-		name: 'Nguyễn Văn E',
+		name: 'Jsoo',
 		doB: '1999-01-01T08:59:00.000Z',
 		salaryScale: 1,
 		startDate: '2019-04-30T08:59:00.000Z',
 		department: DEPARTMENTS[2],
 		annualLeave: 8,
 		overTime: 1,
-		image: '/assets/images/BTS-Jiin.jpg',
+		image: '/assets/images/jsoo.jpg',
 	},
 	{
 		id: 5,
-		name: 'Nguyễn Văn F',
+		name: 'Jenny',
 		doB: '2003-01-01T08:59:00.000Z',
 		salaryScale: 1,
 		startDate: '2019-04-30T08:59:00.000Z',
 		department: DEPARTMENTS[4],
 		annualLeave: 9,
 		overTime: 10,
-		image: '/assets/images/BTS-Jiin.jpg',
+		image: '/assets/images/jenny.jpg',
 	},
 	{
 		id: 6,
